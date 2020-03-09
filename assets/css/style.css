@@ -1,0 +1,14 @@
+body {
+ 	font-family: 'Roboto', sans-serif;
+}
+
+.fullsize_image{
+	width:90%;
+	padding-left: 10%
+}
+
+#footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
