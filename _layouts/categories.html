@@ -4,17 +4,27 @@ layout: default
 
 {% include header.html %}
 
-<div class='row'>
+<div class='row' style="margin-bottom: 100px">
 
     <!-- Left sidebar content -->
     <div id='left_sidebar' class="col l3 m2 s12">
-        <div class="col l8 m12 s12 offset-l4" style="text-align: right; padding-right: 20px">
-            <p style='font-size: 12pt; color: #777777'><strong>Projects</strong></p>
-            <hr style='width: 50%; margin-right: 0px'>
-        {% for project in site.projects %}
-            {% include project.html %}
-        {% endfor %}
-        </div>
+        <ul class="collapsible col l8 m12 s12" style='margin-left: -15px;'>
+          <li>
+            <div class="collapsible-header" style='text-align: center; margin-left:-10px; margin-right:-10px; font-family: "Spartan"; font-weight:500;'>
+                About
+            </div>
+          </li>
+          <li>
+            <div class="collapsible-header" style='text-align: center; margin-left:-10px; margin-right:-10px; font-family: "Spartan"; font-weight:500;'>
+              Projects
+          </div>
+            <div class="collapsible-body">
+                {% for project in site.projects %}
+                    {% include project.html %}
+                {% endfor %}
+            </div>
+          </li>
+        </ul>
     </div>
 
     <!-- Center content -->
@@ -24,17 +34,6 @@ layout: default
                 {% include post_short.html %}
             {% endif %}
         {% endfor %}
-    </div>
-
-    <!-- Right sidebar content -->
-    <div id='right_sidebar' class="col l3 m2 s12">
-     	<div class="col l6 m12 s12" style="text-align: left; padding-left: 20px">
-			<img style='border-radius: 50%; width:80px; height:auto; padding-top: 10px' src='{{site.baseurl}}/assets/img/{{site.user_image}}'/>
-			<div class="card-content">
-				<h6><strong>Paxton</strong> Brewing</h6>
-				<p style='font-size: 12pt; color: #999999'>Welcome to my blog. I hope you like it.</p>
-			</div>
-		</div>
     </div>
 </div>
 
