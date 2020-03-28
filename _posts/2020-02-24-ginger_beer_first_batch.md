@@ -69,33 +69,33 @@ Bought a few items I didn’t already have. Here’s a full list of what’s nee
 
 <br/>
 
-![Ginger](/assets/img/ginger.jpg){: .fullsize_image}
+![Ginger](/assets/img/gb1-1-amazon.jpg){: .fullsize_image}
 <p style='width:90%;padding-left: 10%; font-size: 10pt; text-align: left'>I bought active dry yeast and cream of tartar from Amazon.</p>
 
 ##### Step 2 --- Brewing
 
-&nbsp; 1) Peel and grate 1/3 cup worth of ginger root.
+&nbsp; &nbsp; 1) Peel and grate 1/3 cup worth of ginger root.
 
-&nbsp; 2) Squeeze 1/3 cup of lemon juice.
+&nbsp; &nbsp; 2) Squeeze 1/3 cup of lemon juice.
 
-3. Bring 4 cups of spring water to boil in a pot.
+&nbsp; &nbsp; 3) Bring 4 cups of spring water to boil in a pot.
 
-4. Add the grated ginger root, lemon juice, 1/2 teaspoon of cream of tartar in the boiling water.
-
-<br/>
-
-5. Turn the stove off and mix in 1 cup of granulated sugar until it’s dissolved.
+&nbsp; &nbsp; 4) Add the grated ginger root, lemon juice, 1/2 teaspoon of cream of tartar in the boiling water.
 
 <br/>
 
-6. Add in the remaining 5 cups of spring water into the pot and let it cool down to room temperature (23 degree C / 75 degree F). In hindsight I would have placed the remaining cups of spring water in the fridge earlier on to speed up the cooling process.
+&nbsp; &nbsp; 5)Turn the stove off and mix in 1 cup of granulated sugar until it’s dissolved.
 
-![Ginger](/assets/img/ginger.jpg){: .fullsize_image}
+<br/>
+
+&nbsp; &nbsp; 6) Add in the remaining 5 cups of spring water into the pot and let it cool down to room temperature (23 degree C / 75 degree F). In hindsight I would have placed the remaining cups of spring water in the fridge earlier on to speed up the cooling process.
+
+![Ginger](/assets/img/gb1-2-ingredients.jpg){: .fullsize_image}
 <p style='width:90%;padding-left: 10%; font-size: 10pt; text-align: left'>The grated ginger, squeezed lemon juice, and cream of tartar in a dish before adding in the boiling water.</p>
 
-![Ginger](/assets/img/ginger.jpg){: .fullsize_image}
+![Ginger](/assets/img/gb1-3-mix.jpg){: .fullsize_image}
 
-![Ginger](/assets/img/ginger.jpg){: .fullsize_image}
+![Ginger](/assets/img/gb1-4-cool.jpg){: .fullsize_image}
 <p style='width:90%;padding-left: 10%; font-size: 10pt; text-align: left'>I used the thermometer from my beer making kit (which I have yet to start) to check on the brew to reach room temperature.</p>
 
 7. Once your pot of ingredients is at room temperature, mix in 1 teaspoon of active dry yeast. 
@@ -108,7 +108,7 @@ Bought a few items I didn’t already have. Here’s a full list of what’s nee
 
 9. Move the pot to a dark and room temperature location and leave for 3 hours.
 
-![Ginger](/assets/img/ginger.jpg){: .fullsize_image}
+![Ginger](/assets/img/gb1-5-cover.jpg){: .fullsize_image}
 <p style='width:90%;padding-left: 10%; font-size: 10pt; text-align: left'>The pot of brew covered with a couple sheets of kitchen towels.</p>
 
 ##### Step 3 --- Fermentation
@@ -123,7 +123,7 @@ Bought a few items I didn’t already have. Here’s a full list of what’s nee
 
 12. Twice a day, loosen the bottle cap a bit to let out some of the gas.
 
-![Ginger](/assets/img/ginger.jpg){: .fullsize_image}
+![Ginger](/assets/img/gb1-6-ferment.jpg){: .fullsize_image}
 <p style='width:90%;padding-left: 10%; font-size: 10pt; text-align: left'>The 2 litre fermentation bottling and a bit extra in a smaller water bottle.</p>
 
 13. After the 2 or 3 days of fermentation you decided on, move the bottle into the refrigerator to chill it for drinking and to slow the fermentation. The fermentation will continue if you leave it out in room temperature. I wanted to store my ginger beer in a glass swing-top growler bottle so I transferred the brew there before refrigerating. 
@@ -132,10 +132,10 @@ Bought a few items I didn’t already have. Here’s a full list of what’s nee
 
 14. Once chilled, it’s ready to share and drink! You can store it for about 10 days. I shared almost all of my first batch with family, friends, and colleagues. Telling them the process and seeing them enjoy the ginger beer was the most rewarding part.
 
-![Ginger](/assets/img/ginger.jpg){: .fullsize_image}
+![Ginger](/assets/img/gb1-7-ready.jpg){: .fullsize_image}
 <p style='width:90%;padding-left: 10%; font-size: 10pt; text-align: left'>Notice the yeast sediments at the bottle of the bottle indicating fermentation at work.</p>
 
-![Ginger](/assets/img/ginger.jpg){: .fullsize_image}
+![Ginger](/assets/img/gb1-8-bottled.jpg){: .fullsize_image}
 <p style='width:90%;padding-left: 10%; font-size: 10pt; text-align: left'>Brought a litre and some extra with a litre sized beer growler and a smaller ginger beer bottle.</p>
 
 ##### Feedback and Analysis
