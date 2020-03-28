@@ -8,11 +8,17 @@ image: banner_1.jpg
 ---
 
 I never thought I’d order a non-alcoholic drink at a restaurant, let alone at the Super Bowl. 99% of the time it’s beer or water. 
+
 <br/>
+
 After drinking heavily a couple days straight prior to the Super Bowl, I wasn’t — and neither was my stomach — feeling like having more beer. But come on, it was the Super Bowl and I was watching it at a restaurant pub (Boston Pizza) with a friend. So I ordered a pint. 
+
 <br/>
+
 With determination to only have one beer, I sipped that pint till half-time. When it came time to order another drink, I begrudgingly considered the non-alcoholic drinks. Pop, juice, cocktails, absolutely not. I don’t enjoy very sweet drinks. Ginger Beer for $3.99 caught my eye under the non-alcoholic section. I ordered one! I recall it had a cool name, sort of like what a craft brewery could be called. I’ve never drank ginger beer before that day. Though I later learned that ginger beer is in Moscow Mules, but I didn’t know that then. 
+
 <br/>
+
 The ginger beer arrived in a fancy 375 ml glass bottle. My eyes lit up after the first drink. Cold, fizzy, and delicious. There was a strong but not overpowering taste of ginger and it wasn’t too sweet. I loved it and exclaimed my surprise to my friend Patrick. He took a sip to try it and he too was pleasantly impressed. Patrick, who had been talking about brewing his own kombucha, remembered that ginger beer is actually fairly easy to brew at home. He told me that. Our eyes lit up. Ideas went rampant. Patrick could brew kombucha. I could brew ginger beer. We could open a fermentation cafe or something.
 
 <br/>
