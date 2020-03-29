@@ -147,3 +147,4 @@ I also agree with the reception. I can taste the ginger but it’s rather light.
 * Release less gas when loosening the bottles during the fermentation stage for increased carbonation.
 * I might try just using boiled tap water instead of having to buy bottled water. Tap water in Vancouver is one of the best in the world anyways.
 * Grow my own “ginger bug” from scratch instead of using yeast
+
