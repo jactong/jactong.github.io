@@ -49,8 +49,6 @@ Bought a few items I didn’t already have. Here’s a full list of what’s nee
 
 * Spring water / filtered water (9 cups) --- I bought a 12 pack of bottled water. Wasteful I know.
 
-<br/>
-
 **Equipment:**
 
 * A 2 litre plastic bottle --- I bought a 2 litre bottle of sparkling water. It’s easier to rinse. You must use a plastic bottle because this is the container you’ll use to ferment the ginger beer, during which time a lot of carbonation is produced. A glass bottle would explode from what I’ve read.
@@ -67,8 +65,6 @@ Bought a few items I didn’t already have. Here’s a full list of what’s nee
 
 * Bottles to store your 2 litre worth of ginger beer. --- I used a 1 litre beer growler and I bought 4 x 275 ml (9.3 fl oz) glass bottles of ginger beer from the store and used the emptied bottles for the remaining 1 litre. I’m thinking if I continue making ginger beer, I’d like to buy a nice set of glass swing top bottles about 350 ml (12 oz) capacity because I’ve found that’s a perfect serving size for myself.
 
-<br/>
-
 ![Ginger](/assets/img/gb1-1-amazon.jpg){: .fullsize_image}
 <p style='width:90%;padding-left: 10%; font-size: 10pt; text-align: left'>I bought active dry yeast and cream of tartar from Amazon.</p>
 
@@ -80,15 +76,15 @@ Bought a few items I didn’t already have. Here’s a full list of what’s nee
 4. Add the grated ginger root, lemon juice, 1/2 teaspoon of cream of tartar in the boiling water.
 5. Turn the stove off and mix in 1 cup of granulated sugar until it’s dissolved.
 6. Add in the remaining 5 cups of spring water into the pot and let it cool down to room temperature (23 degree C / 75 degree F). In hindsight I would have placed the remaining cups of spring water in the fridge earlier on to speed up the cooling process.
-
-![Ginger](/assets/img/gb1-2-ingredients.jpg){: .fullsize_image}
-<p style='width:90%;padding-left: 10%; font-size: 10pt; text-align: left'>The grated ginger, squeezed lemon juice, and cream of tartar in a dish before adding in the boiling water.</p>
-
-![Ginger](/assets/img/gb1-3-mix.jpg){: .fullsize_image}
-
-![Ginger](/assets/img/gb1-4-cool.jpg){: .fullsize_image}
-<p style='width:90%;padding-left: 10%; font-size: 10pt; text-align: left'>I used the thermometer from my beer making kit (which I have yet to start) to check on the brew to reach room temperature.</p>
-
+    
+    ![Ginger](/assets/img/gb1-2-ingredients.jpg){: .fullsize_image}
+    <p style='width:90%;padding-left: 10%; font-size: 10pt; text-align: left'>The grated ginger, squeezed lemon juice, and cream of tartar in a dish before adding in the boiling water.</p>
+    
+    ![Ginger](/assets/img/gb1-3-mix.jpg){: .fullsize_image}
+    
+    ![Ginger](/assets/img/gb1-4-cool.jpg){: .fullsize_image}
+    <p style='width:90%;padding-left: 10%; font-size: 10pt; text-align: left'>I used the thermometer from my beer making kit (which I have yet to start) to check on the brew to reach room temperature.</p>
+    
 7. Once your pot of ingredients is at room temperature, mix in 1 teaspoon of active dry yeast. 
 8. Cover the pot with clean towel so it can still breathe but prevents anything from contaminating it. I just used a few sheets of kitchen paper towels.
 9. Move the pot to a dark and room temperature location and leave for 3 hours.
