@@ -74,19 +74,19 @@ Bought a few items I didn’t already have. Here’s a full list of what’s nee
 
 ##### Step 2 --- Brewing
 
-&nbsp; &nbsp; 1. Peel and grate 1/3 cup worth of ginger root.
+1. Peel and grate 1/3 cup worth of ginger root.
 
 <br/>
 
-&nbsp; &nbsp; 2. Squeeze 1/3 cup of lemon juice.
+2. Squeeze 1/3 cup of lemon juice.
 
 <br/>
 
-&nbsp; &nbsp; 3. Bring 4 cups of spring water to boil in a pot.
+3. Bring 4 cups of spring water to boil in a pot.
 
 <br/>
 
-&nbsp; &nbsp; 4. Add the grated ginger root, lemon juice, 1/2 teaspoon of cream of tartar in the boiling water.
+4. Add the grated ginger root, lemon juice, 1/2 teaspoon of cream of tartar in the boiling water.
 
 <br/>
 
