@@ -28,7 +28,7 @@ list-style-type: none;
 }
 
 .art li {
-  padding: 5px 0px;
+  padding: -5px 0px;
 }
 
 .art p {
