@@ -69,16 +69,22 @@ Bought a few items I didn’t already have. Here’s a full list of what’s nee
 
 <br/>
 
-![Ginger](/assets/img/gb1-1-amazon.jpg){: .fullsize_image}
+![Ginger](/assets/img/gb1-1-amazon.jpg){: .fullsize_image .rotate90}
 <p style='width:90%;padding-left: 10%; font-size: 10pt; text-align: left'>I bought active dry yeast and cream of tartar from Amazon.</p>
 
 ##### Step 2 --- Brewing
 
 &nbsp; &nbsp; 1) Peel and grate 1/3 cup worth of ginger root.
 
+<br/>
+
 &nbsp; &nbsp; 2) Squeeze 1/3 cup of lemon juice.
 
+<br/>
+
 &nbsp; &nbsp; 3) Bring 4 cups of spring water to boil in a pot.
+
+<br/>
 
 &nbsp; &nbsp; 4) Add the grated ginger root, lemon juice, 1/2 teaspoon of cream of tartar in the boiling water.
 
@@ -89,6 +95,8 @@ Bought a few items I didn’t already have. Here’s a full list of what’s nee
 <br/>
 
 &nbsp; &nbsp; 6) Add in the remaining 5 cups of spring water into the pot and let it cool down to room temperature (23 degree C / 75 degree F). In hindsight I would have placed the remaining cups of spring water in the fridge earlier on to speed up the cooling process.
+
+<br/>
 
 ![Ginger](/assets/img/gb1-2-ingredients.jpg){: .fullsize_image}
 <p style='width:90%;padding-left: 10%; font-size: 10pt; text-align: left'>The grated ginger, squeezed lemon juice, and cream of tartar in a dish before adding in the boiling water.</p>
@@ -150,8 +158,23 @@ I also agree with the reception. I can taste the ginger but it’s rather light.
 
 For my next batch, I’ve decided to test the following changes:
 &nbsp; &bull; Refrigerate 5 cups of water for a quicker cooling down duration. 
+
+<br/>
+
 &nbsp; &bull; Add more ginger for a stronger ginger flavouring. 
+
+<br/>
+
 &nbsp; &bull; Add more lemon juice to increase the citrus flavour.
+
+<br/>
+
 &nbsp; &bull; Release less gas when loosening the bottles during the fermentation stage for increased carbonation.
+
+<br/>
+
 &nbsp; &bull; I might try just using boiled tap water instead of having to buy bottled water. Tap water in Vancouver is one of the best in the world anyways.
+
+<br/>
+
 &nbsp; &bull; Grow my own “ginger bug” from scratch instead of using yeast
