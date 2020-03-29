@@ -68,16 +68,10 @@ Bought a few items I didn’t already have. Here’s a full list of what’s nee
 ![Ginger](/assets/img/gb1-2-ingredients.jpg){: .fullsize_image}
 <p style='width:90%;padding-left: 10%; font-size: 10pt; text-align: left'>The grated ginger, squeezed lemon juice, and cream of tartar in a dish before adding in the boiling water.</p>
 
-<br/>
-
 ![Ginger](/assets/img/gb1-3-mix.jpg){: .fullsize_image}
-
-<br/>
 
 ![Ginger](/assets/img/gb1-4-cool.jpg){: .fullsize_image}
 <p style='width:90%;padding-left: 10%; font-size: 10pt; text-align: left'>I used the thermometer from my beer making kit (which I have yet to start) to check on the brew to reach room temperature.</p>
-
-<p> </p>
 
 {:start="7"}
 
@@ -87,8 +81,6 @@ Bought a few items I didn’t already have. Here’s a full list of what’s nee
 
 ![Ginger](/assets/img/gb1-5-cover.jpg){: .fullsize_image}
 <p style='width:90%;padding-left: 10%; font-size: 10pt; text-align: left'>The pot of brew covered with a couple sheets of kitchen towels.</p>
-
-<br/>
 
 ##### Step 3 --- Fermentation
 
@@ -101,8 +93,6 @@ Bought a few items I didn’t already have. Here’s a full list of what’s nee
 ![Ginger](/assets/img/gb1-6-ferment.jpg){: .fullsize_image}
 <p style='width:90%;padding-left: 10%; font-size: 10pt; text-align: left'>The 2 litre fermentation bottling and a bit extra in a smaller water bottle.</p>
 
-<p> </p>
-
 {:start="13"}
 
 13. After the 2 or 3 days of fermentation you decided on, move the bottle into the refrigerator to chill it for drinking and to slow the fermentation. The fermentation will continue if you leave it out in room temperature. I wanted to store my ginger beer in a glass swing-top growler bottle so I transferred the brew there before refrigerating. 
@@ -113,27 +103,17 @@ Bought a few items I didn’t already have. Here’s a full list of what’s nee
 
 14. Once chilled, it’s ready to share and drink! You can store it for about 10 days. I shared almost all of my first batch with family, friends, and colleagues. Telling them the process and seeing them enjoy the ginger beer was the most rewarding part.
 
-<p> </p>
-
 ![Ginger](/assets/img/gb1-7-ready.jpg){: .fullsize_image}
 <p style='width:90%;padding-left: 10%; font-size: 10pt; text-align: left'>Notice the yeast sediments at the bottle of the bottle indicating fermentation at work.</p>
 
-<br/>
-
 ![Ginger](/assets/img/gb1-8-bottled.jpg){: .fullsize_image}
 <p style='width:90%;padding-left: 10%; font-size: 10pt; text-align: left'>Brought a litre and some extra with a litre sized beer growler and a smaller ginger beer bottle.</p>
-
-<br/>
 
 ##### Feedback and Analysis
 
 My friends and coworkers who tried my first batch liked it and described it as light and refreshing. A couple people said it’d be a perfect summer patio non-alcoholic drink. 
 
-<br/>
-
 I also agree with the reception. I can taste the ginger but it’s rather light. It’s also not too sweet and is a bit dry—which is exactly how I wanted it. Carbonation was lower than preferred, which I assume is because I let out too much gas when I let loosened the bottles each day during the fermentation process. 
-
-<br/>
 
 **For my next batch, I’ve decided to test the following changes:**
 
