@@ -93,7 +93,7 @@ Bought a few items I didn’t already have. Here’s a full list of what’s nee
 ![Ginger](/assets/img/gb1-4-cool.jpg){: .fullsize_image}
 <p style='width:90%;padding-left: 10%; font-size: 10pt; text-align: left'>I used the thermometer from my beer making kit (which I have yet to start) to check on the brew to reach room temperature.</p>
 
-<br/>
+<p> </p>
 
 {:start="7"}
 
@@ -129,7 +129,7 @@ Bought a few items I didn’t already have. Here’s a full list of what’s nee
 
 14. Once chilled, it’s ready to share and drink! You can store it for about 10 days. I shared almost all of my first batch with family, friends, and colleagues. Telling them the process and seeing them enjoy the ginger beer was the most rewarding part.
 
-<br/>
+<p> </p>
 
 ![Ginger](/assets/img/gb1-7-ready.jpg){: .fullsize_image}
 <p style='width:90%;padding-left: 10%; font-size: 10pt; text-align: left'>Notice the yeast sediments at the bottle of the bottle indicating fermentation at work.</p>
