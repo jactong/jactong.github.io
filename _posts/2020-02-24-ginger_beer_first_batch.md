@@ -77,7 +77,9 @@ Bought a few items I didn’t already have. Here’s a full list of what’s nee
 1. Peel and grate 1/3 cup worth of ginger root.
 2. Squeeze 1/3 cup of lemon juice.
 3. Bring 4 cups of spring water to boil in a pot.
+    
     <br/>
+
 4. Add the grated ginger root, lemon juice, 1/2 teaspoon of cream of tartar in the boiling water.
     <br/>
 &nbsp; &nbsp; 5. Turn the stove off and mix in 1 cup of granulated sugar until it’s dissolved.
