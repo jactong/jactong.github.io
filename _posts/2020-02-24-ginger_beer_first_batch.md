@@ -76,7 +76,7 @@ Bought a few items I didn’t already have. Here’s a full list of what’s nee
 4. Add the grated ginger root, lemon juice, 1/2 teaspoon of cream of tartar in the boiling water.
 5. Turn the stove off and mix in 1 cup of granulated sugar until it’s dissolved.
 6. Add in the remaining 5 cups of spring water into the pot and let it cool down to room temperature (23 degree C / 75 degree F). In hindsight I would have placed the remaining cups of spring water in the fridge earlier on to speed up the cooling process.
-    
+    <br/>
     ![Ginger](/assets/img/gb1-2-ingredients.jpg){: .fullsize_image}
     <p style='width:90%;padding-left: 10%; font-size: 10pt; text-align: left'>The grated ginger, squeezed lemon juice, and cream of tartar in a dish before adding in the boiling water.</p>
     
