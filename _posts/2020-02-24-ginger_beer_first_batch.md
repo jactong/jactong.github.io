@@ -4,7 +4,7 @@ title:  Ginger Beer - First Batch
 date:   2020-02-28 07:00:00
 categories: Ginger_Beer
 description: My first try on Ginger-Beer
-image: banner_1.jpg
+image: gb1-8-bottled.jpg
 ---
 
 I never thought I’d order a non-alcoholic drink at a restaurant, let alone at the Super Bowl. 99% of the time it’s beer or water. 
@@ -36,7 +36,6 @@ Bought a few items I didn’t already have. Here’s a full list of what’s nee
 <br/>
 
 **Ingredients:**
-
 * Ginger root (1/3 cup peeled and grated)
 
 * Squeezed lemon juice (1/3 cup) --- one full lemon was enough for me
@@ -50,7 +49,6 @@ Bought a few items I didn’t already have. Here’s a full list of what’s nee
 * Spring water / filtered water (9 cups) --- I bought a 12 pack of bottled water. Wasteful I know.
 
 **Equipment:**
-
 * A 2 litre plastic bottle --- I bought a 2 litre bottle of sparkling water. It’s easier to rinse. You must use a plastic bottle because this is the container you’ll use to ferment the ginger beer, during which time a lot of carbonation is produced. A glass bottle would explode from what I’ve read.
 
 * A pot that you can use to boil at least 2 litres of water and mixing the ingredients
