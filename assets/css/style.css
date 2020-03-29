@@ -30,3 +30,7 @@ list-style-type: none;
 .art p {
   padding: 5px 0px;
 }
+
+.art li {
+  padding: -5px 0px;
+}
