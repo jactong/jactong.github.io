@@ -161,8 +161,13 @@ For my next batch, I’ve decided to test the following changes:
 <br/>
 
 &nbsp; &bull; Refrigerate 5 cups of water for a quicker cooling down duration. 
+
 &nbsp; &bull; Add more ginger for a stronger ginger flavouring. 
+
 &nbsp; &bull; Add more lemon juice to increase the citrus flavour.
+
 &nbsp; &bull; Release less gas when loosening the bottles during the fermentation stage for increased carbonation.
+
 &nbsp; &bull; I might try just using boiled tap water instead of having to buy bottled water. Tap water in Vancouver is one of the best in the world anyways.
+
 &nbsp; &bull; Grow my own “ginger bug” from scratch instead of using yeast
