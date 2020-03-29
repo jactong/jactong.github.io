@@ -84,16 +84,16 @@ Bought a few items I didn’t already have. Here’s a full list of what’s nee
 ![Ginger](/assets/img/gb1-2-ingredients.jpg){: .fullsize_image}
 <p style='width:90%;padding-left: 10%; font-size: 10pt; text-align: left'>The grated ginger, squeezed lemon juice, and cream of tartar in a dish before adding in the boiling water.</p>
 
-<p> </p>
+<br/>
 
 ![Ginger](/assets/img/gb1-3-mix.jpg){: .fullsize_image}
 
-<p> </p>
+<br/>
 
 ![Ginger](/assets/img/gb1-4-cool.jpg){: .fullsize_image}
 <p style='width:90%;padding-left: 10%; font-size: 10pt; text-align: left'>I used the thermometer from my beer making kit (which I have yet to start) to check on the brew to reach room temperature.</p>
 
-<p> </p>
+<br/>
 
 {:start="7"}
 
@@ -104,7 +104,7 @@ Bought a few items I didn’t already have. Here’s a full list of what’s nee
 ![Ginger](/assets/img/gb1-5-cover.jpg){: .fullsize_image}
 <p style='width:90%;padding-left: 10%; font-size: 10pt; text-align: left'>The pot of brew covered with a couple sheets of kitchen towels.</p>
 
-<p> </p>
+<br/>
 
 ##### Step 3 --- Fermentation
 
@@ -134,10 +134,12 @@ Bought a few items I didn’t already have. Here’s a full list of what’s nee
 ![Ginger](/assets/img/gb1-7-ready.jpg){: .fullsize_image}
 <p style='width:90%;padding-left: 10%; font-size: 10pt; text-align: left'>Notice the yeast sediments at the bottle of the bottle indicating fermentation at work.</p>
 
+<br/>
+
 ![Ginger](/assets/img/gb1-8-bottled.jpg){: .fullsize_image}
 <p style='width:90%;padding-left: 10%; font-size: 10pt; text-align: left'>Brought a litre and some extra with a litre sized beer growler and a smaller ginger beer bottle.</p>
 
-<p> </p>
+<br/>
 
 ##### Feedback and Analysis
 
