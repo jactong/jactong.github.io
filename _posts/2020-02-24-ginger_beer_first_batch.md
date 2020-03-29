@@ -103,21 +103,27 @@ Bought a few items I didn’t already have. Here’s a full list of what’s nee
 10. After 3 hours, pour the brew into the cleaned 2 litre plastic bottle and leave a bit of air space for the carbonation. So I made a slight detour from the blog’s instructions I was following here. The blog instructs to leave the concoction in the pot for 3 hours and then bottle it to ferment. At the beginning of this step, it was a work day and already 10 pm. 3 hours alter would be 1 am and I was already a bit sleep deprived from social activities that week. So I decided to just leave it overnight and bottle it in the morning. I didn’t think it would be a big deal. I ended up transferring the brew from the pot to the bottles in the morning after 10 hours. Later at work that day I had a concerning realization that since I left the brew with freshly added yeast in the metal pot for so long, that might have killed or prevented growth of the yeast. I came to peace with it that the fermentation might not work and I would try it again. I would soon figure out if it had worked or not I realized. If the bottle had gas build up when I loosen the cap that evening, then that would mean the yeast survived and the fermentation is in progress. Later that evening, I loosened the bottle cap with the sweet sound of carbonation. Success! Also, notice the sediments at the bottle of the bottles in the second last image below. That’s another sign of the fermentation working. If I’m correct, that’s the by-product—along with CO2—the yeast produces after consuming the sugar in the brew.
 11. Place the bottles in a dark room temperature place for 2 to 3 days. The longer you leave it the drier and less sweet your ginger beer will taste. I fermented mine for 3 days. 
 12. Twice a day, loosen the bottle cap a bit to let out some of the gas.
+    
+    <br/>
 
-![Ginger](/assets/img/gb1-6-ferment.jpg){: .fullsize_image}
-<p style='width:90%;padding-left: 10%; font-size: 10pt; text-align: left'>The 2 litre fermentation bottling and a bit extra in a smaller water bottle.</p>
-
+    ![Ginger](/assets/img/gb1-6-ferment.jpg){: .fullsize_image}
+    <p style='width:90%;padding-left: 10%; font-size: 10pt; text-align: left'>The 2 litre fermentation bottling and a bit extra in a smaller water bottle.</p>
+    
 13. After the 2 or 3 days of fermentation you decided on, move the bottle into the refrigerator to chill it for drinking and to slow the fermentation. The fermentation will continue if you leave it out in room temperature. I wanted to store my ginger beer in a glass swing-top growler bottle so I transferred the brew there before refrigerating. 
 
 ##### Step 4 --- Drink and Enjoy!
 
+{:start="14"}
+
 14. Once chilled, it’s ready to share and drink! You can store it for about 10 days. I shared almost all of my first batch with family, friends, and colleagues. Telling them the process and seeing them enjoy the ginger beer was the most rewarding part.
-
-![Ginger](/assets/img/gb1-7-ready.jpg){: .fullsize_image}
-<p style='width:90%;padding-left: 10%; font-size: 10pt; text-align: left'>Notice the yeast sediments at the bottle of the bottle indicating fermentation at work.</p>
-
-![Ginger](/assets/img/gb1-8-bottled.jpg){: .fullsize_image}
-<p style='width:90%;padding-left: 10%; font-size: 10pt; text-align: left'>Brought a litre and some extra with a litre sized beer growler and a smaller ginger beer bottle.</p>
+    
+    <br/>
+    
+    ![Ginger](/assets/img/gb1-7-ready.jpg){: .fullsize_image}
+    <p style='width:90%;padding-left: 10%; font-size: 10pt; text-align: left'>Notice the yeast sediments at the bottle of the bottle indicating fermentation at work.</p>
+    
+    ![Ginger](/assets/img/gb1-8-bottled.jpg){: .fullsize_image}
+    <p style='width:90%;padding-left: 10%; font-size: 10pt; text-align: left'>Brought a litre and some extra with a litre sized beer growler and a smaller ginger beer bottle.</p>
 
 ##### Feedback and Analysis
 
