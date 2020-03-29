@@ -29,6 +29,8 @@ Anyhow, a couple weeks later, I took action and bought the few ingredients neede
 
 **This is how it went**
 
+<p> </p>
+
 ##### Step 1 --- Ingredients and Equipment
 
 Bought a few items I didn’t already have. Here’s a full list of what’s needed following [this article's](https://www.theroastedroot.net/how-to-make-ginger-beer/) instructions with some slight alterations:
@@ -36,6 +38,7 @@ Bought a few items I didn’t already have. Here’s a full list of what’s nee
 <br/>
 
 **Ingredients:**
+
 * Ginger root (1/3 cup peeled and grated)
 
 * Squeezed lemon juice (1/3 cup) --- one full lemon was enough for me
@@ -49,6 +52,7 @@ Bought a few items I didn’t already have. Here’s a full list of what’s nee
 * Spring water / filtered water (9 cups) --- I bought a 12 pack of bottled water. Wasteful I know.
 
 **Equipment:**
+
 * A 2 litre plastic bottle --- I bought a 2 litre bottle of sparkling water. It’s easier to rinse. You must use a plastic bottle because this is the container you’ll use to ferment the ginger beer, during which time a lot of carbonation is produced. A glass bottle would explode from what I’ve read.
 
 * A pot that you can use to boil at least 2 litres of water and mixing the ingredients
@@ -65,6 +69,8 @@ Bought a few items I didn’t already have. Here’s a full list of what’s nee
 
 ![Ginger](/assets/img/gb1-1-amazon.jpg){: .fullsize_image}
 <p style='width:90%;padding-left: 10%; font-size: 10pt; text-align: left'>I bought active dry yeast and cream of tartar from Amazon.</p>
+
+<p> </p>
 
 ##### Step 2 --- Brewing
 
@@ -93,6 +99,8 @@ Bought a few items I didn’t already have. Here’s a full list of what’s nee
 
 ![Ginger](/assets/img/gb1-5-cover.jpg){: .fullsize_image}
 <p style='width:90%;padding-left: 10%; font-size: 10pt; text-align: left'>The pot of brew covered with a couple sheets of kitchen towels.</p>
+
+<p> </p>
 
 ##### Step 3 --- Fermentation
 
@@ -124,6 +132,8 @@ Bought a few items I didn’t already have. Here’s a full list of what’s nee
 
 ![Ginger](/assets/img/gb1-8-bottled.jpg){: .fullsize_image}
 <p style='width:90%;padding-left: 10%; font-size: 10pt; text-align: left'>Brought a litre and some extra with a litre sized beer growler and a smaller ginger beer bottle.</p>
+
+<p> </p>
 
 ##### Feedback and Analysis
 
