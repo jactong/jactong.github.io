@@ -157,24 +157,12 @@ I also agree with the reception. I can taste the ginger but it’s rather light.
 <br/>
 
 For my next batch, I’ve decided to test the following changes:
+
+<br/>
+
 &nbsp; &bull; Refrigerate 5 cups of water for a quicker cooling down duration. 
-
-<br/>
-
 &nbsp; &bull; Add more ginger for a stronger ginger flavouring. 
-
-<br/>
-
 &nbsp; &bull; Add more lemon juice to increase the citrus flavour.
-
-<br/>
-
 &nbsp; &bull; Release less gas when loosening the bottles during the fermentation stage for increased carbonation.
-
-<br/>
-
 &nbsp; &bull; I might try just using boiled tap water instead of having to buy bottled water. Tap water in Vancouver is one of the best in the world anyways.
-
-<br/>
-
 &nbsp; &bull; Grow my own “ginger bug” from scratch instead of using yeast
