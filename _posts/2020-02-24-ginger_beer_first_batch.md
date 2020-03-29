@@ -69,32 +69,32 @@ Bought a few items I didn’t already have. Here’s a full list of what’s nee
 
 <br/>
 
-![Ginger](/assets/img/gb1-1-amazon.jpg){: .fullsize_image .rotate90}
+![Ginger](/assets/img/gb1-1-amazon.jpg){: .fullsize_image}
 <p style='width:90%;padding-left: 10%; font-size: 10pt; text-align: left'>I bought active dry yeast and cream of tartar from Amazon.</p>
 
 ##### Step 2 --- Brewing
 
-&nbsp; &nbsp; 1) Peel and grate 1/3 cup worth of ginger root.
+&nbsp; &nbsp; 1. Peel and grate 1/3 cup worth of ginger root.
 
 <br/>
 
-&nbsp; &nbsp; 2) Squeeze 1/3 cup of lemon juice.
+&nbsp; &nbsp; 2. Squeeze 1/3 cup of lemon juice.
 
 <br/>
 
-&nbsp; &nbsp; 3) Bring 4 cups of spring water to boil in a pot.
+&nbsp; &nbsp; 3. Bring 4 cups of spring water to boil in a pot.
 
 <br/>
 
-&nbsp; &nbsp; 4) Add the grated ginger root, lemon juice, 1/2 teaspoon of cream of tartar in the boiling water.
+&nbsp; &nbsp; 4. Add the grated ginger root, lemon juice, 1/2 teaspoon of cream of tartar in the boiling water.
 
 <br/>
 
-&nbsp; &nbsp; 5)Turn the stove off and mix in 1 cup of granulated sugar until it’s dissolved.
+&nbsp; &nbsp; 5. Turn the stove off and mix in 1 cup of granulated sugar until it’s dissolved.
 
 <br/>
 
-&nbsp; &nbsp; 6) Add in the remaining 5 cups of spring water into the pot and let it cool down to room temperature (23 degree C / 75 degree F). In hindsight I would have placed the remaining cups of spring water in the fridge earlier on to speed up the cooling process.
+&nbsp; &nbsp; 6. Add in the remaining 5 cups of spring water into the pot and let it cool down to room temperature (23 degree C / 75 degree F). In hindsight I would have placed the remaining cups of spring water in the fridge earlier on to speed up the cooling process.
 
 <br/>
 
