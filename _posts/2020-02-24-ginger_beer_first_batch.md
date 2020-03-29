@@ -156,9 +156,7 @@ I also agree with the reception. I can taste the ginger but it’s rather light.
 
 <br/>
 
-For my next batch, I’ve decided to test the following changes:
-
-<br/>
+**For my next batch, I’ve decided to test the following changes:**
 
 &nbsp; &bull; Refrigerate 5 cups of water for a quicker cooling down duration. 
 
