@@ -37,35 +37,35 @@ Bought a few items I didn’t already have. Here’s a full list of what’s nee
 
 **Ingredients:**
 
-&nbsp; &bull; Ginger root (1/3 cup peeled and grated)
+* Ginger root (1/3 cup peeled and grated)
 
-&nbsp; &bull; Squeezed lemon juice (1/3 cup) --- one full lemon was enough for me
+* Squeezed lemon juice (1/3 cup) --- one full lemon was enough for me
 
-&nbsp; &bull; Granulated sugar (1 cup) --- I used 1/3 cup of brown sugar and 2/3 cup of white sugar
+* Granulated sugar (1 cup) --- I used 1/3 cup of brown sugar and 2/3 cup of white sugar
 
-&nbsp; &bull; Active dry yeast (1 teaspoon)
+* Active dry yeast (1 teaspoon)
 
-&nbsp; &bull; Cream of tartar (1/2 teaspoon)
+* Cream of tartar (1/2 teaspoon)
 
-&nbsp; &bull; Spring water / filtered water (9 cups) --- I bought a 12 pack of bottled water. Wasteful I know.
+* Spring water / filtered water (9 cups) --- I bought a 12 pack of bottled water. Wasteful I know.
 
 <br/>
 
 **Equipment:**
 
-&nbsp; &bull; A 2 litre plastic bottle --- I bought a 2 litre bottle of sparkling water. It’s easier to rinse. You must use a plastic bottle because this is the container you’ll use to ferment the ginger beer, during which time a lot of carbonation is produced. A glass bottle would explode from what I’ve read.
+* A 2 litre plastic bottle --- I bought a 2 litre bottle of sparkling water. It’s easier to rinse. You must use a plastic bottle because this is the container you’ll use to ferment the ginger beer, during which time a lot of carbonation is produced. A glass bottle would explode from what I’ve read.
 
-&nbsp; &bull; A pot that you can use to boil at least 2 litres of water and mixing the ingredients
+* A pot that you can use to boil at least 2 litres of water and mixing the ingredients
 
-&nbsp; &bull; A funnel for easier transferring of the ginger beer between containers
+* A funnel for easier transferring of the ginger beer between containers
 
-&nbsp; &bull; Grater to grate the ginger root
+* Grater to grate the ginger root
 
-&nbsp; &bull; A citrus juicer for easier juicing of the lemon
+* A citrus juicer for easier juicing of the lemon
 
-&nbsp; &bull; A fine strainer to strain the pulp when transferring into the bottle for fermentation
+* A fine strainer to strain the pulp when transferring into the bottle for fermentation
 
-&nbsp; &bull; Bottles to store your 2 litre worth of ginger beer. --- I used a 1 litre beer growler and I bought 4 x 275 ml (9.3 fl oz) glass bottles of ginger beer from the store and used the emptied bottles for the remaining 1 litre. I’m thinking if I continue making ginger beer, I’d like to buy a nice set of glass swing top bottles about 350 ml (12 oz) capacity because I’ve found that’s a perfect serving size for myself.
+* Bottles to store your 2 litre worth of ginger beer. --- I used a 1 litre beer growler and I bought 4 x 275 ml (9.3 fl oz) glass bottles of ginger beer from the store and used the emptied bottles for the remaining 1 litre. I’m thinking if I continue making ginger beer, I’d like to buy a nice set of glass swing top bottles about 350 ml (12 oz) capacity because I’ve found that’s a perfect serving size for myself.
 
 <br/>
 
@@ -90,13 +90,7 @@ Bought a few items I didn’t already have. Here’s a full list of what’s nee
 <p style='width:90%;padding-left: 10%; font-size: 10pt; text-align: left'>I used the thermometer from my beer making kit (which I have yet to start) to check on the brew to reach room temperature.</p>
 
 7. Once your pot of ingredients is at room temperature, mix in 1 teaspoon of active dry yeast. 
-
-<br/>
-
 8. Cover the pot with clean towel so it can still breathe but prevents anything from contaminating it. I just used a few sheets of kitchen paper towels.
-
-<br/>
-
 9. Move the pot to a dark and room temperature location and leave for 3 hours.
 
 ![Ginger](/assets/img/gb1-5-cover.jpg){: .fullsize_image}
@@ -105,13 +99,7 @@ Bought a few items I didn’t already have. Here’s a full list of what’s nee
 ##### Step 3 --- Fermentation
 
 10. After 3 hours, pour the brew into the cleaned 2 litre plastic bottle and leave a bit of air space for the carbonation. So I made a slight detour from the blog’s instructions I was following here. The blog instructs to leave the concoction in the pot for 3 hours and then bottle it to ferment. At the beginning of this step, it was a work day and already 10 pm. 3 hours alter would be 1 am and I was already a bit sleep deprived from social activities that week. So I decided to just leave it overnight and bottle it in the morning. I didn’t think it would be a big deal. I ended up transferring the brew from the pot to the bottles in the morning after 10 hours. Later at work that day I had a concerning realization that since I left the brew with freshly added yeast in the metal pot for so long, that might have killed or prevented growth of the yeast. I came to peace with it that the fermentation might not work and I would try it again. I would soon figure out if it had worked or not I realized. If the bottle had gas build up when I loosen the cap that evening, then that would mean the yeast survived and the fermentation is in progress. Later that evening, I loosened the bottle cap with the sweet sound of carbonation. Success! Also, notice the sediments at the bottle of the bottles in the second last image below. That’s another sign of the fermentation working. If I’m correct, that’s the by-product—along with CO2—the yeast produces after consuming the sugar in the brew.
-
-<br/>
-
 11. Place the bottles in a dark room temperature place for 2 to 3 days. The longer you leave it the drier and less sweet your ginger beer will taste. I fermented mine for 3 days. 
-
-<br/>
-
 12. Twice a day, loosen the bottle cap a bit to let out some of the gas.
 
 ![Ginger](/assets/img/gb1-6-ferment.jpg){: .fullsize_image}
@@ -147,4 +135,3 @@ I also agree with the reception. I can taste the ginger but it’s rather light.
 * Release less gas when loosening the bottles during the fermentation stage for increased carbonation.
 * I might try just using boiled tap water instead of having to buy bottled water. Tap water in Vancouver is one of the best in the world anyways.
 * Grow my own “ginger bug” from scratch instead of using yeast
-
