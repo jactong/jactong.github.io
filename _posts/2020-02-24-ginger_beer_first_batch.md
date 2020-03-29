@@ -29,7 +29,7 @@ Anyhow, a couple weeks later, I took action and bought the few ingredients neede
 
 **This is how it went**
 
-<p> </p>
+<br/>
 
 ##### Step 1 --- Ingredients and Equipment
 
@@ -70,7 +70,7 @@ Bought a few items I didn’t already have. Here’s a full list of what’s nee
 ![Ginger](/assets/img/gb1-1-amazon.jpg){: .fullsize_image}
 <p style='width:90%;padding-left: 10%; font-size: 10pt; text-align: left'>I bought active dry yeast and cream of tartar from Amazon.</p>
 
-<p> </p>
+<br/>
 
 ##### Step 2 --- Brewing
 
