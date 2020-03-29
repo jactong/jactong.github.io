@@ -3,7 +3,7 @@ layout: article
 title:  Ginger Beer - First Batch
 date:   2020-02-28 07:00:00
 categories: Ginger_Beer
-description: My first try on Ginger-Beer
+description: I never thought I’d order a non-alcoholic drink at a restaurant, let alone at the Super Bowl. 99% of the time it’s beer or water.
 image: gb1-banner.jpg
 ---
 
