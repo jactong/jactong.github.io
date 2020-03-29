@@ -13,6 +13,6 @@ body {
   width: 100%;
 }
 
-ul li { padding: 10px 0px; }
+ul li { padding-bottom: 5px; padding-top: 10px; }
 
-ol li { padding: 10px 0px; }
+ol li { padding-bottom: 5px; padding-top: 10px; }
