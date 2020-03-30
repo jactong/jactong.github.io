@@ -26,31 +26,20 @@ Bought a few items I didn’t already have. Here’s a full list of what’s nee
 **Ingredients:**
 
 * Ginger root (1/3 cup peeled and grated)
-
 * Squeezed lemon juice (1/3 cup) --- one full lemon was enough for me
-
 * Granulated sugar (1 cup) --- I used 1/3 cup of brown sugar and 2/3 cup of white sugar
-
 * Active dry yeast (1 teaspoon)
-
 * Cream of tartar (1/2 teaspoon)
-
 * Spring water / filtered water (9 cups) --- I bought a 12 pack of bottled water. Wasteful I know.
 
 **Equipment:**
 
 * A 2 litre plastic bottle --- I bought a 2 litre bottle of sparkling water. It’s easier to rinse. You must use a plastic bottle because this is the container you’ll use to ferment the ginger beer, during which time a lot of carbonation is produced. A glass bottle would explode from what I’ve read.
-
 * A pot that you can use to boil at least 2 litres of water and mixing the ingredients
-
 * A funnel for easier transferring of the ginger beer between containers
-
 * Grater to grate the ginger root
-
 * A citrus juicer for easier juicing of the lemon
-
 * A fine strainer to strain the pulp when transferring into the bottle for fermentation
-
 * Bottles to store your 2 litre worth of ginger beer. --- I used a 1 litre beer growler and I bought 4 x 275 ml (9.3 fl oz) glass bottles of ginger beer from the store and used the emptied bottles for the remaining 1 litre. I’m thinking if I continue making ginger beer, I’d like to buy a nice set of glass swing top bottles about 350 ml (12 oz) capacity because I’ve found that’s a perfect serving size for myself.
 
 ![Ginger](/assets/img/gb1-1-amazon.jpg){: .fullsize_image}
