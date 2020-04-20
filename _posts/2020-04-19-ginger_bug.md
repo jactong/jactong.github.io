@@ -20,7 +20,7 @@ In this post, I’ll describe my experiment of trying to make ginger beer using 
 3. Feed your ginger bug every 24 hours by mixing in the same amount of chopped ginger and sugar. For me, bubbles would start appearing on the third day. That means the yeast is active and feeding on the sugar. I usually feed it an additional day so on day 4 you’re ready to use it and make your ginger beer.
 
 ![Ginger](/assets/img/gb2-1-bug.jpg){: .fullsize_image}
-<p style='width:90%;padding-left: 10%; font-size: 10pt; text-align: left'>I bought active dry yeast and cream of tartar from Amazon.</p>
+<p style='width:90%;padding-left: 10%; font-size: 10pt; text-align: left'>Ginger bug on day 4. Yes, I'm indeed growing my ginger bug in a french press.</p>
 
 ##### First Attempt - I Cheated
 
@@ -39,13 +39,13 @@ I wanted to save it! So I added more ginger bug into the bottles. The next day, 
 I let the brew ferment for another day or two and then refrigerated it and brought this batch to a Friday evening party with friends. People liked it! I liked it too, but I wasn’t as happy with the flavour this time. I think the lemon peels was a bit too strong and added an unnecessary bitterness.
 
 ![Ginger](/assets/img/gb2-2-blend.jpg){: .fullsize_image}
-<p style='width:90%;padding-left: 10%; font-size: 10pt; text-align: left'>I bought active dry yeast and cream of tartar from Amazon.</p>
+<p style='width:90%;padding-left: 10%; font-size: 10pt; text-align: left'>Blended ginger for brewing.</p>
 
 ![Ginger](/assets/img/gb2-3-pot.jpg){: .fullsize_image}
-<p style='width:90%;padding-left: 10%; font-size: 10pt; text-align: left'>I bought active dry yeast and cream of tartar from Amazon.</p>
+<p style='width:90%;padding-left: 10%; font-size: 10pt; text-align: left'>Faster cool down in the sink filled with cold water.</p>
 
 ![Ginger](/assets/img/gb2-4-first-attempt.jpg){: .fullsize_image}
-<p style='width:90%;padding-left: 10%; font-size: 10pt; text-align: left'>I bought active dry yeast and cream of tartar from Amazon.</p>
+<p style='width:90%;padding-left: 10%; font-size: 10pt; text-align: left'>Brining a bottle of ginger beer to a party!</p>
 
 ##### Second Attempt - Disappointing
 
@@ -60,7 +60,7 @@ The rest of the process remained the same so I’ll skip to day 3 when I uncappe
 I ended up just dumping it all and didn’t try to revive it. 
 
 ![Ginger](/assets/img/gb2-5-second-attempt.jpg){: .fullsize_image}
-<p style='width:90%;padding-left: 10%; font-size: 10pt; text-align: left'>I bought active dry yeast and cream of tartar from Amazon.</p>
+<p style='width:90%;padding-left: 10%; font-size: 10pt; text-align: left'>Bottled ginger beer for fermentation. These are 6 x 500ml bottles and a 1 litre bottle.</p>
 
 ##### Third Attempt - Maybe This Will Work?
 
@@ -71,6 +71,6 @@ I told this to my friend Patrick and he convinced me I should again. He has been
 So, after cooling the ginger brew to room temperature, I mixed about 80% of the ginger bug and the ginger brew into a glass jug. I covered the top with a paper towel and let it sit for about 12 hours.
 
 ![Ginger](/assets/img/gb2-6-third-attempt.jpg){: .fullsize_image}
-<p style='width:90%;padding-left: 10%; font-size: 10pt; text-align: left'>I bought active dry yeast and cream of tartar from Amazon.</p>
+<p style='width:90%;padding-left: 10%; font-size: 10pt; text-align: left'>About to mix in the ginger bug into the jug of strained ginger brew.</p>
 
 ...
