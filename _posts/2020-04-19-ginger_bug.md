@@ -4,7 +4,7 @@ title:  The Ginger Bug Experiment
 date:   2020-04-19 07:00:00
 categories: Ginger_Beer
 description: I had a great experience making, drinking, and sharing my first batch of ginger beer. It was simple to make, tasty, and fun to share. So I decided to make another batch. This time I wanted to do one better by using a “ginger bug” (which I need to grow from scratch) instead of using active dry yeast I did in my first batch.
-image: gb2-ginger-bug.jpg
+image: gb2-banner.jpg
 ---
 
 I had a great experience making, drinking, and sharing my first batch of ginger beer. It was simple to make, tasty, and fun to share. So I decided to make another batch.
