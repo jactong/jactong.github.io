@@ -1,114 +1,56 @@
 ---
 layout: article
-title:  Ginger Beer - First Batch
-date:   2020-02-28 07:00:00
+title:  The Ginger Bug Experiment
+date:   2020-04-19 07:00:00
 categories: Ginger_Beer
-description: I never thought I’d order a non-alcoholic drink at a restaurant, let alone at the Super Bowl. 99% of the time it’s beer or water.
-image: gb1-banner.jpg
+description: I had a great experience making, drinking, and sharing my first batch of ginger beer. It was simple to make, tasty, and fun to share. So I decided to make another batch. This time I wanted to do one better by using a “ginger bug” (which I need to grow from scratch) instead of using active dry yeast I did in my first batch.
+image: gb2-ginger-bug.jpg
 ---
 
-I never thought I’d order a non-alcoholic drink at a restaurant, let alone at the Super Bowl. 99% of the time it’s beer or water. 
+I had a great experience making, drinking, and sharing my first batch of ginger beer. It was simple to make, tasty, and fun to share. So I decided to make another batch.
 
-After drinking heavily a couple days straight prior to the Super Bowl, I wasn’t — and neither was my stomach — feeling like having more beer. But come on, it was the Super Bowl and I was watching it at a restaurant pub (Boston Pizza) with a friend. So I ordered a pint. 
+This time I wanted to do one better by using a “ginger bug” (which I need to grow from scratch) instead of using active dry yeast I did in my first batch. The ginger bug will contain the natural yeasts that will take care of fermentation. Once the ginger bug is ready, I will proceed to brewing the ginger beer like in my first batch. Fun fact: the ginger bug also contains probiotics! 
 
-With determination to only have one beer, I sipped that pint till half-time. When it came time to order another drink, I begrudgingly considered the non-alcoholic drinks. Pop, juice, cocktails, absolutely not. I don’t enjoy very sweet drinks. Ginger Beer for $3.99 caught my eye under the non-alcoholic section. I ordered one! I recall it had a cool name, sort of like what a craft brewery could be called. I’ve never drank ginger beer before that day. Though I later learned that ginger beer is in Moscow Mules, but I didn’t know that then. 
+In this post, I’ll describe my experiment of trying to make ginger beer using a ginger bug. It took me three batch attempts to get it right. At one point, I almost gave up and was going to just use active dry yeast again.
 
-The ginger beer arrived in a fancy 375 ml glass bottle. My eyes lit up after the first drink. Cold, fizzy, and delicious. There was a strong but not overpowering taste of ginger and it wasn’t too sweet. I loved it and exclaimed my surprise to my friend Patrick. He took a sip to try it and he too was pleasantly impressed. Patrick, who had been talking about brewing his own kombucha, remembered that ginger beer is actually fairly easy to brew at home. He told me that. Our eyes lit up. Ideas went rampant. Patrick could brew kombucha. I could brew ginger beer. We could open a fermentation cafe or something.
+##### Growing the Ginger Bug
 
-Anyhow, a couple weeks later, I took action and bought the few ingredients needed to get started. 
+1. Chop up a small piece of ginger (about size of a large egg). Keep the peel on as it contains the naturally occurring yeast.
+2. Mix in the the chopped ginger and 2 tablespoons of white sugar into 2 cups of filtered water in a glass jar. Cover the jar with a paper towel so dirty flies and skin dust don’t float in. Store the jar in a dark and room temperature area like a kitchen cupboard. That’s it! Now you just have to feed it for a couple days until you see bubbles and fizzing in the concoction.
+3. Feed your ginger bug every 24 hours by mixing in the same amount of chopped ginger and sugar. For me, bubbles would start appearing on the third day. That means the yeast is active and feeding on the sugar. I usually feed it an additional day so on day 4 you’re ready to use it and make your ginger beer.
 
-**This is how it went**
+##### First Attempt - Disappointing
 
-##### Step 1 --- Ingredients and Equipment
+In my first attempt, I was hoping to use the ginger bug on day 5. I kept the ginger bug going for 7 days though due to life delaying my purchase of the ingredients. The bug was fizzy and had a strong smell by day 7. Smelled a bit sour too. Upon some research I found that the sour smell is the acid produced when bacteria consumes the sugar in your ginger bug. That’s the probiotic bacteria.
 
-Bought a few items I didn’t already have. Here’s a full list of what’s needed following [this article's](https://www.theroastedroot.net/how-to-make-ginger-beer/) instructions with some slight alterations:
+I made a few improvements to my brewing process this time. I cut up the ginger and blended it in a blender—a safer and more efficient way to get all the good juices. I might have gone too far with the efficiency of blending though as I also blended 2 whole lemons, including the peel. 
 
-**Ingredients:**
+Next, I proceeded to to mix the 2 cups of white sugar, blended ginger, and blended lemon together in a boiling pot of water. I boiled that for a few minutes and then cool down the pot of ginger brew. Here’s my next pro-tip: instead of leaving the pot to cool to room temperature over many hours, placed the pot in the sink filled with cold water. It cooled to room temperature in less than 30 minutes. 
 
-* Ginger root (1/3 cup peeled and grated)
-* Squeezed lemon juice (1/3 cup) --- one full lemon was enough for me
-* Granulated sugar (1 cup) --- I used 1/3 cup of brown sugar and 2/3 cup of white sugar
-* Active dry yeast (1 teaspoon)
-* Cream of tartar (1/2 teaspoon)
-* Spring water / filtered water (9 cups) --- I bought a 12 pack of bottled water. Wasteful I know.
+Once the ginger brew cooled to room temperature, I strained the brew into my plastic pop bottles for fermentation. Here is when I also added in about 1 cup of strained ginger bug into each 2 litre pop bottles. Cap it and shake the bottle to mix it all together. Store it in a dark and room temperature place. 
 
-**Equipment:**
+From what I read online, this is where I let the brew ferment for about 3 days. On day 3 I unscrewed the caps to let out some of the gas—there was no gas or pressure at all. It was disappointing.
 
-* A 2 litre plastic bottle --- I bought a 2 litre bottle of sparkling water. It’s easier to rinse. You must use a plastic bottle because this is the container you’ll use to ferment the ginger beer, during which time a lot of carbonation is produced. A glass bottle would explode from what I’ve read.
-* A pot that you can use to boil at least 2 litres of water and mixing the ingredients
-* A funnel for easier transferring of the ginger beer between containers
-* Grater to grate the ginger root
-* A citrus juicer for easier juicing of the lemon
-* A fine strainer to strain the pulp when transferring into the bottle for fermentation
-* Bottles to store your 2 litre worth of ginger beer. --- I used a 1 litre beer growler and I bought 4 x 275 ml (9.3 fl oz) glass bottles of ginger beer from the store and used the emptied bottles for the remaining 1 litre. I’m thinking if I continue making ginger beer, I’d like to buy a nice set of glass swing top bottles about 350 ml (12 oz) capacity because I’ve found that’s a perfect serving size for myself.
+I wanted to save it! So I added more ginger bug into the bottles. The next day, still not carbonation. Very sad. I didn’t want all that ginger to go to waste so I added some active dry yeast into the bottles. That did the job. There was pressure and carbonation the next day. But I was a bit upset that I had ‘cheated’ in a way.
 
-![Ginger](/assets/img/gb1-1-amazon.jpg){: .fullsize_image}
-<p style='width:90%;padding-left: 10%; font-size: 10pt; text-align: left'>I bought active dry yeast and cream of tartar from Amazon.</p>
+I let the brew ferment for another day or two and then refrigerated it and brought this batch to a Friday evening party with friends. People liked it! I liked it too, but I wasn’t as happy with the flavour this time. I think the lemon peels was a bit too strong and added an unnecessary bitterness.
 
-##### Step 2 --- Brewing
+##### Second Attempt - No Cheating
+For my second attempt, I made some changes. I read online that you should not peel the ginger used for making the ginger bug. That’s because of the natural yeast that’s already on it. In hindsight, I realized that was probably not the reason my first attempt didn’t work because the ginger bug in my first attempt was bubbling lively. So it likely wasn’t the ginger bug. 
 
-1. Peel and grate 1/3 cup worth of ginger root.
-2. Squeeze 1/3 cup of lemon juice.
-3. Bring 4 cups of spring water to boil in a pot.
-4. Add the grated ginger root, lemon juice, 1/2 teaspoon of cream of tartar in the boiling water.
-5. Turn the stove off and mix in 1 cup of granulated sugar until it’s dissolved.
-6. Add in the remaining 5 cups of spring water into the pot and let it cool down to room temperature (23 degree C / 75 degree F). In hindsight I would have placed the remaining cups of spring water in the fridge earlier on to speed up the cooling process.
+The other change I made this time was not blending the lemons with the peel. I just used squeezed juice.
 
-![Ginger](/assets/img/gb1-2-ingredients.jpg){: .fullsize_image}
-<p style='width:90%;padding-left: 10%; font-size: 10pt; text-align: left'>The grated ginger, squeezed lemon juice, and cream of tartar in a dish before adding in the boiling water.</p>
+The last change I made was I bottled the ginger beer in glass swing-top bottles instead of the plastic pop bottles. The swing-top bottles I bought were meant to hold carbonated drinks so the glass can withstand the pressure. Make sure that’s the case for you too if you want to bottle with glass bottles because they’d likely explode if not.
 
-![Ginger](/assets/img/gb1-3-mix.jpg){: .fullsize_image}
+The rest of the process remained the same so I’ll skip to day 3 when I uncapped the bottles to release some gas. No release of pressured gas. Just like the first attempt. I was pretty bummed.
 
-![Ginger](/assets/img/gb1-4-cool.jpg){: .fullsize_image}
-<p style='width:90%;padding-left: 10%; font-size: 10pt; text-align: left'>I used the thermometer from my beer making kit (which I have yet to start) to check on the brew to reach room temperature.</p>
+I ended up just dumping it all and didn’t try to revive it. 
 
-{:start="7"}
+##### Third Attempt - Maybe This Will Work?
+After my second attempt, I took a break from ginger beer for a couple weeks. I also thought to myself if I should just make it using active dry yeast instead of a ginger bug. I thought this because I wanted to make the ginger beer because it tastes good and it was a joy to share with friends. It wasn’t the probiotics (that you get when using a ginger bug) that I cared about. 
 
-7. Once your pot of ingredients is at room temperature, mix in 1 teaspoon of active dry yeast. 
-8. Cover the pot with clean towel so it can still breathe but prevents anything from contaminating it. I just used a few sheets of kitchen paper towels.
-9. Move the pot to a dark and room temperature location and leave for 3 hours.
+I told this to my friend Patrick and he convinced me I should again. He has been having pretty good success with his kombucha brewing. I read more online about why a ginger brew might not carbonate and found one response that I wanted to try for my third attempt. Instead of bottling the brew immediately after mixing the ginger bug in, I would mix the brew and bug together and let it sit uncapped for about 12 hours before capping them. The idea is it would allow the yeast to settle-in after the shock of being mixed into another concoction because having oxygen capped out. 
 
-![Ginger](/assets/img/gb1-5-cover.jpg){: .fullsize_image}
-<p style='width:90%;padding-left: 10%; font-size: 10pt; text-align: left'>The pot of brew covered with a couple sheets of kitchen towels.</p>
+So, after cooling the ginger brew to room temperature, I mixed about 80% of the ginger bug and the ginger brew into a glass jug. I covered the top with a paper towel and let it sit for about 12 hours.
 
-##### Step 3 --- Fermentation
-
-{:start="10"}
-
-10. After 3 hours, pour the brew into the cleaned 2 litre plastic bottle and leave a bit of air space for the carbonation. So I made a slight detour from the blog’s instructions I was following here. The blog instructs to leave the concoction in the pot for 3 hours and then bottle it to ferment. At the beginning of this step, it was a work day and already 10 pm. 3 hours alter would be 1 am and I was already a bit sleep deprived from social activities that week. So I decided to just leave it overnight and bottle it in the morning. I didn’t think it would be a big deal. I ended up transferring the brew from the pot to the bottles in the morning after 10 hours. Later at work that day I had a concerning realization that since I left the brew with freshly added yeast in the metal pot for so long, that might have killed or prevented growth of the yeast. I came to peace with it that the fermentation might not work and I would try it again. I would soon figure out if it had worked or not I realized. If the bottle had gas build up when I loosen the cap that evening, then that would mean the yeast survived and the fermentation is in progress. Later that evening, I loosened the bottle cap with the sweet sound of carbonation. Success! Also, notice the sediments at the bottle of the bottles in the second last image below. That’s another sign of the fermentation working. If I’m correct, that’s the by-product—along with CO2—the yeast produces after consuming the sugar in the brew.
-11. Place the bottles in a dark room temperature place for 2 to 3 days. The longer you leave it the drier and less sweet your ginger beer will taste. I fermented mine for 3 days. 
-12. Twice a day, loosen the bottle cap a bit to let out some of the gas.
-
-![Ginger](/assets/img/gb1-6-ferment.jpg){: .fullsize_image}
-<p style='width:90%;padding-left: 10%; font-size: 10pt; text-align: left'>The 2 litre fermentation bottling and a bit extra in a smaller water bottle.</p>
-
-{:start="13"}
-
-13. After the 2 or 3 days of fermentation you decided on, move the bottle into the refrigerator to chill it for drinking and to slow the fermentation. The fermentation will continue if you leave it out in room temperature. I wanted to store my ginger beer in a glass swing-top growler bottle so I transferred the brew there before refrigerating. 
-
-##### Step 4 --- Drink and Enjoy!
-
-{:start="14"}
-
-14. Once chilled, it’s ready to share and drink! You can store it for about 10 days. I shared almost all of my first batch with family, friends, and colleagues. Telling them the process and seeing them enjoy the ginger beer was the most rewarding part.
-
-![Ginger](/assets/img/gb1-7-ready.jpg){: .fullsize_image}
-<p style='width:90%;padding-left: 10%; font-size: 10pt; text-align: left'>Notice the yeast sediments at the bottle of the bottle indicating fermentation at work.</p>
-
-![Ginger](/assets/img/gb1-8-bottled.jpg){: .fullsize_image}
-<p style='width:90%;padding-left: 10%; font-size: 10pt; text-align: left'>Brought a litre and some extra with a litre sized beer growler and a smaller ginger beer bottle.</p>
-
-##### Feedback and Analysis
-
-My friends and coworkers who tried my first batch liked it and described it as light and refreshing. A couple people said it’d be a perfect summer patio non-alcoholic drink. 
-
-I also agree with the reception. I can taste the ginger but it’s rather light. It’s also not too sweet and is a bit dry—which is exactly how I wanted it. Carbonation was lower than preferred, which I assume is because I let out too much gas when I let loosened the bottles each day during the fermentation process. 
-
-**For my next batch, I’ve decided to test the following changes:**
-
-* Refrigerate 5 cups of water for a quicker cooling down duration. 
-* Add more ginger for a stronger ginger flavouring. 
-* Add more lemon juice to increase the citrus flavour.
-* Release less gas when loosening the bottles during the fermentation stage for increased carbonation.
-* I might try just using boiled tap water instead of having to buy bottled water. Tap water in Vancouver is one of the best in the world anyways.
-* Grow my own “ginger bug” from scratch instead of using yeast
+...
