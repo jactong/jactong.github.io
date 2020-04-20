@@ -19,7 +19,10 @@ In this post, I’ll describe my experiment of trying to make ginger beer using 
 2. Mix in the the chopped ginger and 2 tablespoons of white sugar into 2 cups of filtered water in a glass jar. Cover the jar with a paper towel so dirty flies and skin dust don’t float in. Store the jar in a dark and room temperature area like a kitchen cupboard. That’s it! Now you just have to feed it for a couple days until you see bubbles and fizzing in the concoction.
 3. Feed your ginger bug every 24 hours by mixing in the same amount of chopped ginger and sugar. For me, bubbles would start appearing on the third day. That means the yeast is active and feeding on the sugar. I usually feed it an additional day so on day 4 you’re ready to use it and make your ginger beer.
 
-##### First Attempt - Disappointing
+![Ginger](/assets/img/gb2-1-bug.jpg){: .fullsize_image}
+<p style='width:90%;padding-left: 10%; font-size: 10pt; text-align: left'>I bought active dry yeast and cream of tartar from Amazon.</p>
+
+##### First Attempt - I Cheated
 
 In my first attempt, I was hoping to use the ginger bug on day 5. I kept the ginger bug going for 7 days though due to life delaying my purchase of the ingredients. The bug was fizzy and had a strong smell by day 7. Smelled a bit sour too. Upon some research I found that the sour smell is the acid produced when bacteria consumes the sugar in your ginger bug. That’s the probiotic bacteria.
 
@@ -35,7 +38,17 @@ I wanted to save it! So I added more ginger bug into the bottles. The next day, 
 
 I let the brew ferment for another day or two and then refrigerated it and brought this batch to a Friday evening party with friends. People liked it! I liked it too, but I wasn’t as happy with the flavour this time. I think the lemon peels was a bit too strong and added an unnecessary bitterness.
 
-##### Second Attempt - No Cheating
+![Ginger](/assets/img/gb2-2-blend.jpg){: .fullsize_image}
+<p style='width:90%;padding-left: 10%; font-size: 10pt; text-align: left'>I bought active dry yeast and cream of tartar from Amazon.</p>
+
+![Ginger](/assets/img/gb2-3-pot.jpg){: .fullsize_image}
+<p style='width:90%;padding-left: 10%; font-size: 10pt; text-align: left'>I bought active dry yeast and cream of tartar from Amazon.</p>
+
+![Ginger](/assets/img/gb2-4-first-attempt.jpg){: .fullsize_image}
+<p style='width:90%;padding-left: 10%; font-size: 10pt; text-align: left'>I bought active dry yeast and cream of tartar from Amazon.</p>
+
+##### Second Attempt - Disappointing
+
 For my second attempt, I made some changes. I read online that you should not peel the ginger used for making the ginger bug. That’s because of the natural yeast that’s already on it. In hindsight, I realized that was probably not the reason my first attempt didn’t work because the ginger bug in my first attempt was bubbling lively. So it likely wasn’t the ginger bug. 
 
 The other change I made this time was not blending the lemons with the peel. I just used squeezed juice.
@@ -46,11 +59,18 @@ The rest of the process remained the same so I’ll skip to day 3 when I uncappe
 
 I ended up just dumping it all and didn’t try to revive it. 
 
+![Ginger](/assets/img/gb2-5-second-attempt.jpg){: .fullsize_image}
+<p style='width:90%;padding-left: 10%; font-size: 10pt; text-align: left'>I bought active dry yeast and cream of tartar from Amazon.</p>
+
 ##### Third Attempt - Maybe This Will Work?
+
 After my second attempt, I took a break from ginger beer for a couple weeks. I also thought to myself if I should just make it using active dry yeast instead of a ginger bug. I thought this because I wanted to make the ginger beer because it tastes good and it was a joy to share with friends. It wasn’t the probiotics (that you get when using a ginger bug) that I cared about. 
 
 I told this to my friend Patrick and he convinced me I should again. He has been having pretty good success with his kombucha brewing. I read more online about why a ginger brew might not carbonate and found one response that I wanted to try for my third attempt. Instead of bottling the brew immediately after mixing the ginger bug in, I would mix the brew and bug together and let it sit uncapped for about 12 hours before capping them. The idea is it would allow the yeast to settle-in after the shock of being mixed into another concoction because having oxygen capped out. 
 
 So, after cooling the ginger brew to room temperature, I mixed about 80% of the ginger bug and the ginger brew into a glass jug. I covered the top with a paper towel and let it sit for about 12 hours.
+
+![Ginger](/assets/img/gb2-6-third-attempt.jpg){: .fullsize_image}
+<p style='width:90%;padding-left: 10%; font-size: 10pt; text-align: left'>I bought active dry yeast and cream of tartar from Amazon.</p>
 
 ...
